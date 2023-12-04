@@ -5,4 +5,4 @@ let enterBtn = document.getElementById('enter-btn');
    heading.innerText="Entered Metaverse";
    para.innerText="";
    para.appendChild(heading);
-  })
+  });
